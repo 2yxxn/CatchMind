@@ -1,0 +1,10 @@
+C:\Users\yunji\OneDrive\Desktop\catchmind\PacketServer\bin\Debug\PacketServer.exe.config
+C:\Users\yunji\OneDrive\Desktop\catchmind\PacketServer\bin\Debug\PacketServer.exe
+C:\Users\yunji\OneDrive\Desktop\catchmind\PacketServer\bin\Debug\PacketServer.pdb
+C:\Users\yunji\OneDrive\Desktop\catchmind\PacketServer\obj\Debug\PacketServer.csproj.AssemblyReference.cache
+C:\Users\yunji\OneDrive\Desktop\catchmind\PacketServer\obj\Debug\PacketServer.Form1.resources
+C:\Users\yunji\OneDrive\Desktop\catchmind\PacketServer\obj\Debug\PacketServer.Properties.Resources.resources
+C:\Users\yunji\OneDrive\Desktop\catchmind\PacketServer\obj\Debug\PacketServer.csproj.GenerateResource.cache
+C:\Users\yunji\OneDrive\Desktop\catchmind\PacketServer\obj\Debug\PacketServer.csproj.CoreCompileInputs.cache
+C:\Users\yunji\OneDrive\Desktop\catchmind\PacketServer\obj\Debug\PacketServer.exe
+C:\Users\yunji\OneDrive\Desktop\catchmind\PacketServer\obj\Debug\PacketServer.pdb
